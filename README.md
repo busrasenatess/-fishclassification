@@ -1,25 +1,2 @@
-# Skin Disease Detection / Cilt Hastalığı Tespiti
 
-A Python project for detecting skin diseases from images. Includes **live support** and a **hospital search** feature for nearby dermatology clinics.  
-Görüntülerden cilt hastalıklarını tespit eden bir Python projesi. **Canlı destek** ve **yakındaki dermatoloji kliniklerini bulma** özelliklerini içerir.
-
----
-
-## Features / Özellikler
-- Detects various skin conditions using a machine learning model  
-  Makine öğrenmesi modeli ile çeşitli cilt hastalıklarını tespit eder
-- Provides real-time user support  
-  Kullanıcılara gerçek zamanlı destek sağlar
-- Helps find nearby hospitals or clinics  
-  Yakındaki hastane veya klinikleri bulmaya yardımcı olur
-
----
-
-## Installation / Kurulum
-```bash
-git clone https://github.com/yourusername/skin-disease-detection.git
-cd skin-disease-detection
-pip install -r requirements.txt
-python app.py
-﻿# Skin Disease Detection Project
 
